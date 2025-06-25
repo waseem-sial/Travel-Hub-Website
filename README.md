@@ -204,7 +204,7 @@ This project was developed by the **IWY Explorers** group:
 
 ## 📜 License
 
-**MIT License** – See `LICENSE.md`
+**MIT License** – See `LICENSE`
 
 
 ## 📞 Support
